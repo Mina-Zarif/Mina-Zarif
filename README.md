@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mina1062016665@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wNAd5J5BgUXks-_tDSZrQCbkPGYw3tHM/view?usp=sharing](https://drive.google.com/file/d/1wNAd5J5BgUXks-_tDSZrQCbkPGYw3tHM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wNAd5J5BgUXks-_tDSZrQCbkPGYw3tHM/view?usp=sharing](https://drive.google.com/file/d/15USC6LcZ4HFjjEqIrI4dmok6PJ-LEnTB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
