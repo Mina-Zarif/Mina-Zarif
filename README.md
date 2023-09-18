@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mina-zarif" alt="mina-zarif" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/m_zarif10" target="blank"><img src="https://img.shields.io/twitter/follow/m_zarif10?logo=twitter&style=for-the-badge" alt="m_zarif10" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mina_zarif_" target="blank"><img src="https://img.shields.io/twitter/follow/mina_zarif_?logo=twitter&style=for-the-badge" alt="m_zarif10" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced Flutter Topics.**
 
