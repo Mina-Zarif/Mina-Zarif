@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mina Zarif</h1>
 <h3 align="center">A software engineer || Flutter Developer</h3>
 <!-- <p align="right"><img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/275/datas/original.gif" alt="GIF" width="150" height="150"></p> -->
-<img src="https://camo.githubusercontent.com/7837f4bc8d5b8cf769702bc69957eee0511490a8b63cee82d8a160692ceb9d55/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a766b6649346e464e6865433576307037777a447447672e676966" alt="Banner" >
+<img src="https://github.com/Mina-Zarif/Mina-Zarif/blob/main/assets/cover_image.gif" alt="Banner" >
 
 
 
