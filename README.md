@@ -46,5 +46,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina-zarif&show_icons=true&locale=en&layout=compact" alt="mina-zarif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mina-zarif&show_icons=true&locale=en" alt="mina-zarif" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mina-zarif&" alt="mina-zarif" /></p>
