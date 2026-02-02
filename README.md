@@ -1,48 +1,66 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mina Zarif</h1>
-<h3 align="center">A software engineer || Flutter Developer</h3>
-<!-- <p align="right"><img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/456/275/datas/original.gif" alt="GIF" width="150" height="150"></p> -->
-<img src="https://github.com/Mina-Zarif/Mina-Zarif/blob/main/assets/cover_image.gif" alt="Banner" >
+# 👋 Hi, I'm Mina Zarif
+
+### Software Engineer | Flutter Developer
+
+[![Profile Views](https://komarev.com/ghpvc/?username=mina-zarif&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/mina-zarif)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mina_zarif_?logo=twitter&style=flat-square&color=1DA1F2)](https://twitter.com/mina_zarif_)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Advanced Software & Flutter Topics**
+- 💼 Open to Flutter development opportunities
+- 📫 Reach me at **mina1062016665@gmail.com**
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mina_zarif_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mina-zarif-03b9121ba)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/m.zarif2710)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_mina30)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mina1062016665)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mimo30)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mimo30)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mimo2710)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
+</div>
+
+---
 
 
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mina-zarif&label=Profile%20views&color=0e75b6&style=flat" alt="mina-zarif" /> </p>
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mina-zarif" alt="mina-zarif" /></a> </p> -->
+**Thanks for visiting! Feel free to reach out for collaboration opportunities.**
 
-<p align="left"> <a href="https://twitter.com/mina_zarif_" target="blank"><img src="https://img.shields.io/twitter/follow/mina_zarif_?logo=twitter&style=for-the-badge" alt="m_zarif10" /></a> </p>
-
-- 🌱 I’m currently learning **Advanced Flutter Topics.**
-
-- 📫 How to reach me **mina1062016665@gmail.com**
-
-- 📄 Know about my experiences [my resume.](https://drive.google.com/file/d/1jP38R8lHOUYTzARH4AOd9YfQvT47AOwK/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mina_zarif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_zarif10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mina-zarif-03b9121ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mina-zarif-03b9121ba" height="30" width="40" /></a>
-<a href="https://fb.com/m.zarif2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.zarif2710" height="30" width="40" /></a>
-<a href="https://instagram.com/_mina30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mina30" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/mina1062016665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mina1062016665" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mimo30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mimo30" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mimo30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mimo30" height="30" width="40" /></a>
-<a href="https://discord.gg/@mimo2710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9181" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<!--<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> -->
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina-zarif&show_icons=true&locale=en&layout=compact" alt="mina-zarif" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mina-zarif&show_icons=true&locale=en" alt="mina-zarif" /></p>
+</div>
