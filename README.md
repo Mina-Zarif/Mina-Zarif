@@ -4,9 +4,6 @@
 
 ### Software Engineer | Flutter Developer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mina-zarif&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/mina-zarif)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mina_zarif_?logo=twitter&style=flat-square&color=1DA1F2)](https://twitter.com/mina_zarif_)
-
 </div>
 
 ---
