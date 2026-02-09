@@ -11,7 +11,6 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning **Advanced Software & Flutter Topics**
-- 💼 Open to Flutter development opportunities
 - 📫 Reach me at **mina1062016665@gmail.com**
 ---
 
