@@ -122,14 +122,22 @@ LinkedIn-inspired academic platform connecting students and professors through r
 </p>
 
 ---
-
-## GitHub Stats
+<!-- ## `./snake --watch`
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mina-Zarif&theme=github-dark-blue&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
----
+
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mina-Zarif&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="GitHub activity graph"
+  />
+</p> -->
+
 
 ## Quote
 
