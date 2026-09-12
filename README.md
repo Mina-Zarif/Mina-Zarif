@@ -44,8 +44,13 @@ Flutter Developer focused on building scalable and high-performance cross-platfo
 
 ## 💼 Projects
 
-### Kippis
+<!-- <img src="https://play-lh.googleusercontent.com/65MxO_BPuHbW-b49YJu-GnelxAocNn_XeUVIpC5Xz1_3NN6M3QAimkkLXhzl4Aqo2fo9aOPyjX-bgqyxrJMd8Q=w480-h960-rw" width="100" height="100" align="left" hspace="15" style="border-radius: 25px; object-fit: fill;"/> -->
+
+<h3 style="padding-top: 25px;">Kippis</h3>
+
 Cross-platform social networking application that enables users to connect, share content, and communicate through a modern, responsive Flutter experience.
+
+
 
 <!-- screen shots -->
 
@@ -65,7 +70,36 @@ Cross-platform social networking application that enables users to connect, shar
 
 
 
-### Syarah Driver
+<!-- <img src="https://play-lh.googleusercontent.com/odc5KrS5kFK5HKB3_SqyppVJX6BSLQyXPfU1fjPmcH5skTmFR-Rs37NQXYwoZMCazpHWfcwtgR1W0To54R5L=w480-h960-rw" width="100" height="100" align="left" hspace="15" style="border-radius: 25px;"/> -->
+
+<h3 style="padding-top: 25px;">Renttls</h3>
+
+Developed a cross-platform real estate rental app connecting tenants directly with landlords, featuring property discovery, advanced search and filtering, maps, favorites, messaging, viewing requests, and rental offers.
+
+<!-- screen shots -->
+
+<p align="start">
+  <img src="https://play-lh.googleusercontent.com/wYAH_5-sGU0Uj5NqYzbydX120kf2uvWr4xxUUnDLmjSqbdfpC23pYm5zxla7ceHfkl5YdwmAp-XU3MqzDYY80Q=w1052-h592-rw" width="220"/>
+  <img src="https://play-lh.googleusercontent.com/3aDSKY-9THu53vE9kpkapWtrwJbwl1vH63zJyHtLCwCdlADSNTA7RfLhnjArSYKv7jmE4KK8C0cr9bTm6l4R4A=w1052-h592-rw" width="220"/>
+  <img src="https://play-lh.googleusercontent.com/WhfuonHeN-o_UcuTnq6blLi13QmHPsz_6N7043Fw1R1-W4wVMVi5Resh2oPZARcylANpcZuOxqbuUw6zaNhZ=w1052-h592-rw" width="220"/>
+  <img src="https://play-lh.googleusercontent.com/bkVrVOyKNDqXF0T2TwbruTAwtOfrAUq5TLynI7Zsbdg1HYVheSjs5QwkzZha_AhIACoF75Nd7YxNJE9cQChBYg=w1052-h592-rw" width="220"/>
+   <img src="https://play-lh.googleusercontent.com/Q0UEH85sLz1LM4f7UMa71Pvi25GZ7BmPGfKK3qk84e6bB7uMJNDnZLNkmfwI6eUeO42IciYTUjRQk92VfhRp=w1052-h592-rw" width="220"/>
+    <img src="https://play-lh.googleusercontent.com/K3_SH2ibCWu4K9jgvHSYJb5pFINlopBfLQgd65-iZLn_ymqKPga_6pd0hD58d7mdCty60WY8dTRr2Lz5U_9d=w1052-h592-rw" width="220"/>
+</p>
+
+
+
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.raqmix.renttls) 
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/renttls/id6793131774)
+
+
+
+
+<!-- <img src="https://play-lh.googleusercontent.com/QLLKeOfMaf2JCrMaeaeUU7lIr_kcWRrPzfuFr2DcKaXeTNEYrRL4L7hL4py9grE5cDGMUxA6Z-GJ1k23s4Xrwg=w480-h960-rw" width="100" height="100" align="left" hspace="15" style="border-radius: 25px;"/> -->
+
+<h3 style="padding-top: 25px;">Syarah Driver</h3>
+
 Fleet management application that allows drivers to track fuel consumption, manage allocations, and synchronize real-time data with enterprise systems.
 
 
@@ -85,7 +119,11 @@ Fleet management application that allows drivers to track fuel consumption, mana
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.al7osam.sayarhDriver&hl=en) 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/syarah-driver/id6739496753)
 
-### Syarah Worker
+
+<!-- <img src="https://play-lh.googleusercontent.com/9G-zn9Fe7SM1KnkxyWruOxbA9zl7vzNVrbVxceOotaKl4YmZA3xHmS3QqMMWEOOcBgS9whwFqHnPcjQnGecG0Q=w480-h960-rw" width="100" height="100" align="left" hspace="15" style="border-radius: 25px;"/> -->
+
+<h3 style="padding-top: 25px;">Syarah Worker</h3>
+
 Enterprise mobile solution for monitoring vehicle fuel usage, managing company budgets, and streamlining fleet operations in real time.
 
 
@@ -106,7 +144,10 @@ Enterprise mobile solution for monitoring vehicle fuel usage, managing company b
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.al7osam.sayarah_worker&hl=en) 
 
 
-### Student Portal
+<!-- <img src="https://avatars.githubusercontent.com/u/188269403" width="100" height="100" align="left" hspace="15" style="border-radius: 25px;"/> -->
+
+<h3 style="padding-top: 25px;">Student Portal</h3>
+
 LinkedIn-inspired academic platform connecting students and professors through real-time messaging, content sharing, notifications, and collaborative networking.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StudentPortal-grad/student-portal-app)
