@@ -52,7 +52,7 @@ Software Engineer specializing in Flutter, with **4+ years of experience** build
 ## 🚀 Featured Projects
 
 ### Kippis
-Cross-platform social networking app that lets users connect, share content, and communicate through a modern, responsive Flutter experience.
+Cross-platform beverage ordering app enabling customers to explore drinks, customize their own mixes, place orders, earn loyalty rewards, and track order status in real time.
 
 **Stack:** Flutter • Dart • BLoC • Clean Architecture • REST APIs
 
